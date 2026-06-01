@@ -1,0 +1,6 @@
+item_id,item_name,quantity,unit_price,reorder_level
+1,Laptop,12,850,5
+2,Keyboard,4,40,10
+3,Monitor,7,220,6
+4,Mouse,3,25,8
+5,USB Cable,25,8,15

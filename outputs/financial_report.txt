@@ -1,0 +1,25 @@
+AI Financial Reporting Assistant Report
+
+FINANCIAL SUMMARY
+=================
+
+Total Revenue:
+$80000
+
+Total Expenses:
+$44900
+
+Average Revenue:
+$16000.0
+
+Average Expenses:
+$8980.0
+
+PROFIT SUMMARY
+==============
+
+Net Profit:
+$35100
+
+Profit Margin:
+43.88%
